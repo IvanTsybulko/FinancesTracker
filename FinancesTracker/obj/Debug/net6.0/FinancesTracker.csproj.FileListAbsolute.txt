@@ -1,0 +1,14 @@
+D:\source\repos\FinancesTracker\FinancesTracker\bin\Debug\net6.0\FinancesTracker.exe
+D:\source\repos\FinancesTracker\FinancesTracker\bin\Debug\net6.0\FinancesTracker.deps.json
+D:\source\repos\FinancesTracker\FinancesTracker\bin\Debug\net6.0\FinancesTracker.runtimeconfig.json
+D:\source\repos\FinancesTracker\FinancesTracker\bin\Debug\net6.0\FinancesTracker.dll
+D:\source\repos\FinancesTracker\FinancesTracker\bin\Debug\net6.0\FinancesTracker.pdb
+D:\source\repos\FinancesTracker\FinancesTracker\obj\Debug\net6.0\FinancesTracker.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\FinancesTracker\FinancesTracker\obj\Debug\net6.0\FinancesTracker.AssemblyInfoInputs.cache
+D:\source\repos\FinancesTracker\FinancesTracker\obj\Debug\net6.0\FinancesTracker.AssemblyInfo.cs
+D:\source\repos\FinancesTracker\FinancesTracker\obj\Debug\net6.0\FinancesTracker.csproj.CoreCompileInputs.cache
+D:\source\repos\FinancesTracker\FinancesTracker\obj\Debug\net6.0\FinancesTracker.dll
+D:\source\repos\FinancesTracker\FinancesTracker\obj\Debug\net6.0\refint\FinancesTracker.dll
+D:\source\repos\FinancesTracker\FinancesTracker\obj\Debug\net6.0\FinancesTracker.pdb
+D:\source\repos\FinancesTracker\FinancesTracker\obj\Debug\net6.0\FinancesTracker.genruntimeconfig.cache
+D:\source\repos\FinancesTracker\FinancesTracker\obj\Debug\net6.0\ref\FinancesTracker.dll
